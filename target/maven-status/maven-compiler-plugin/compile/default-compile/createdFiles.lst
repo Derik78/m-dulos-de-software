@@ -1,0 +1,4 @@
+DatabaseConnection.class
+com\matchmingle\mi\proyecto\JakartaRestConfiguration.class
+com\matchmingle\mi\proyecto\resources\JakartaEE11Resource.class
+UserServlet.class
